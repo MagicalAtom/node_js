@@ -21,3 +21,12 @@ module.exports.getfunction = get
 تو صفحات دیگه 
 require
 میکنیم روی یک متغیر و استفاده میکنیم 
+
+
+const getPage = require('./get')
+
+get.getfunction()
+
+
+
+
